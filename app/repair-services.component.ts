@@ -22,5 +22,6 @@ export class RepairServicesComponent implements OnInit {
 export var REPAIR_SERVICES: String[] = [
   'Engine Servicing',
   'Regular Maintenace',
-  'Heavy Machinery Stuff'
+  'Heavy Equipment Repairs & Service',
+  'All Off Road & Construction Equipment'
 ]
